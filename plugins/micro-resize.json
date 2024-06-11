@@ -4,6 +4,7 @@
           "Description": "Resize splits with keyboard shortcuts",
           "Tags": ["resize", "resize-split"],
         "Website": "https://github.com/itsoctotv/micro-resize/",
+        "License": "MIT license",
         "Versions": [
             {
                 "Version": "1.0.0",
